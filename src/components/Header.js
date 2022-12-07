@@ -2,6 +2,6 @@ import React from 'react';
 import './Header.css';
 
 export default function Header() {
-  return  <h1 className="'fs-10' 'bg-primary'">My ToDo list</h1>;
+  return  <h1 className="'fs-10'">My ToDo List</h1>;
 } 
 
